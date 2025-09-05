@@ -21,5 +21,5 @@ Entry-Level Insights: Entry-level roles show diverse salary ranges. Part-time an
 -Senior-Level Highlights: Senior-level employees see top salaries in part-time roles, indicating lucrative opportunities for experienced individuals in part-time work.
 -General Trend: Full-time roles are competitive, but part-time and freelance positions can exceed full-time salaries, suggesting dynamic pay structures based on employment type and experience.
 
-[View the Full Jupyter Notebook](https://github.com/Divine-hub-data/Salary-Experience-Analysis/blob/main/Salary-Experience-Analysis.ipynb)
-[Dataset Source](https://github.com/Divine-hub-data/Salary-Experience-Analysis/blob/main/ds_salaries_dirty.csv)
+- [View the Full Jupyter Notebook](https://github.com/Divine-hub-data/Salary-Experience-Analysis/blob/main/Salary-Experience-Analysis.ipynb)
+- [Dataset Source](https://github.com/Divine-hub-data/Salary-Experience-Analysis/blob/main/ds_salaries_dirty.csv)
