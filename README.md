@@ -20,3 +20,5 @@ Entry-Level Insights: Entry-level roles show diverse salary ranges. Part-time an
 -Mid-Level Observations: Mid-level salaries in contract roles stand out, but full-time pay is lower compared to entry-level, showing varied compensation patterns.
 -Senior-Level Highlights: Senior-level employees see top salaries in part-time roles, indicating lucrative opportunities for experienced individuals in part-time work.
 -General Trend: Full-time roles are competitive, but part-time and freelance positions can exceed full-time salaries, suggesting dynamic pay structures based on employment type and experience.
+
+[View the Full Jupyter Notebook](https://github.com/Divine-hub-data/Salary-Experience-Analysis/blob/main/Salary-Experience-Analysis.ipynb)
